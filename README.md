@@ -47,7 +47,7 @@ Este projeto é composto apenas por arquivos front-end e não requer um servidor
 
 1.  Clique no link para baixar o repositório do projeto:
 >https://github.com/nexuscleo/login-ciano/archive/refs/heads/main.zip
-    ```
+
 2.  Navegue até o diretório do projeto.
 
 3.  Abra o arquivo `index.html` no seu navegador de preferência.
