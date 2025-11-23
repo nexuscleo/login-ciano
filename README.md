@@ -11,11 +11,11 @@ Abaixo estão os espaços para você adicionar capturas de tela do projeto. Para
 
 ### Versão Desktop
 
-![Pré-visualização da página de login em um desktop](./img/login-desktop.png)
+[Pré-visualização da página de login em um desktop](./img/login-desktop.png)
 
 ### Versão Mobile
 
-![Pré-visualização da página de login em um celular](./img/login-mobile.png)
+[Pré-visualização da página de login em um celular](./img/login-mobile.png)
 
 ---
 
