@@ -45,30 +45,20 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
 
 Este projeto é composto apenas por arquivos front-end e não requer um servidor ou instalação complexa.
 
-1.  Clone o repositório para sua máquina local:
-    ```bash
-    git clone https://github.com/seu-usuario/seu-repositorio.git
+1.  Clique no link para baixar o repositório do projeto:
+>https://github.com/nexuscleo/login-ciano/archive/refs/heads/main.zip
     ```
-2.  Navegue até o diretório do projeto:
-    ```bash
-    cd seu-repositorio
-    ```
+2.  Navegue até o diretório do projeto.
+
 3.  Abra o arquivo `index.html` no seu navegador de preferência.
 
 E pronto! A página de login será exibida.
 
-Ou clique no link de deploy:
+Ou clique no link de deployment:
+>https://nexuscleo.github.io/login-ciano/
 
 ---
 
 ## ✒️ Autor
 
-Este projeto foi desenvolvido por **Cleomar da Silva**.
-
----
-
-## 📄 Licença
-
-Este projeto está sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.
-
-> Criado com base no código e estrutura fornecidos. &copy; 2025 NexusCleo.
+Desenvolvido por **Cleomar da Silva**,&copy; 2025 NexusCleo.
