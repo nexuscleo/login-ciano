@@ -63,4 +63,4 @@ Ou clique no link de deployment:
 
 ## ✒️ Autor
 
-Desenvolvido por **Cleomar da Silva**,&copy; 2025 NexusCleo.
+Desenvolvido por **Cleomar da Silva**, &copy; 2025 NexusCleo.
