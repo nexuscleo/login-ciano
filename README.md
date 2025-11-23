@@ -10,12 +10,14 @@ Projeto de uma página de login com design moderno, futurista e totalmente respo
 Abaixo estão os espaços para você adicionar capturas de tela do projeto. Para substituir, basta alterar o caminho nos links abaixo.
 
 ### Versão Desktop
-
-[Pré-visualização da página de login em um desktop](./img/login-desktop.png)
+<p align="center">
+  <img src="./img/login-desktop.png" alt="Demonstração do Projeto" width="400"/>
+</p>
 
 ### Versão Mobile
-
-[Pré-visualização da página de login em um celular](./img/login-mobile.png)
+<p align="center">
+  <img src="./img/login-mobile.png" alt="Demonstração do Projeto" width="400"/>
+</p>
 
 ---
 
